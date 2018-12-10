@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - levelOneOuad
+  - levelTree
+  - levelMangoTwo
+  - three
+  - nine
+  - one
+  - two
+  - four
+  - six
+  - seven
+  - eight
+  - ten
+  - canvas
+  - five
+  - backbutton
+  - woodenlog
+  - whiteWolf
+  - lion
+  - leopard
+  - redWolf
+  - goat
+  - blackWolf
+  - whiteWolfOne
+  - leopardOne
+  - goatOne
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: front
+    uniqueID: 4048622243
+    locked: 0
+  - name: middle
+    uniqueID: 625196679
+    locked: 0
+  - name: background
+    uniqueID: 2915832803
+    locked: 0
